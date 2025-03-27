@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What ILya Saw.md",
+                "file": "dump/Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What ILya Saw"
+              "title": "Intro"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "right": {
     "id": "bd16578ad1f2b56c",
@@ -179,37 +178,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37247a89b79bfec7",
+  "active": "4c54f1e290c12abf",
   "lastOpenFiles": [
-    "Sparse Autoencoders in Interpretability.md",
-    "What ILya Saw.md",
-    "Backprop NEAT for 2D Task Classification.md",
-    "franz_kafka_zeichnung_public-domain_via-wikimedia-commons.jpg",
-    "slimevolley-3.gif",
-    "slimevolley (1).gif",
+    "dump/NEAT Implementation for Slime Volley.md",
+    "Welcome.md",
+    "dump/Doubts and Dreams.md",
+    "dump/Interview Prep (got fucked, nvm sed).md",
+    "dump/Interview Prep.md",
+    "assets",
+    "dump/Intro.md",
+    "dump/What ILya Saw.md",
+    "dump/Sparse Autoencoders in Interpretability.md",
+    "dump/Backprop NEAT for 2D Task Classification.md",
+    "assets/franz_kafka_zeichnung_public-domain_via-wikimedia-commons.jpg",
+    "assets/slimevolley-3.gif",
+    "assets/slimevolley (1).gif",
     "obsidian-recovery-codes.txt",
     "potential-projects.txt",
     "workspace.json",
-    "Genetic Algorithms.md",
-    "Autoencoder_schema.png",
+    "dump/Genetic Algorithms.md",
+    "assets/Autoencoder_schema.png",
     "app.json",
-    "Doubts and Dreams.md",
-    "1_K1bRLDs7h1tmEB4qZCLpxw.webp",
-    "St_5-xband-antenna.jpg",
-    "Interview Prep (got fucked, nvm sed).md",
-    "Pasted image 20240907163441.png",
+    "assets/1_K1bRLDs7h1tmEB4qZCLpxw.webp",
+    "assets/St_5-xband-antenna.jpg",
+    "assets/Pasted image 20240907163441.png",
     "core-plugins.json",
     "graph.json",
-    "1_vtQ7OH3iMT6OmPyeRNcnYg.webp",
-    "1_NCmCqKxG4Fw2Ba9wD8jP4g.webp",
-    "Pasted image 20240907155819.png",
+    "assets/1_vtQ7OH3iMT6OmPyeRNcnYg.webp",
+    "assets/1_NCmCqKxG4Fw2Ba9wD8jP4g.webp",
+    "assets/Pasted image 20240907155819.png",
     "K-scale proposal",
-    "NEAT Implementation for Slime Volley.md",
     "core-plugins-migration.json",
-    "appearance.json",
-    "Interview Prep.md",
-    "dump",
-    "Welcome.md",
-    "Intro.md"
+    "appearance.json"
   ]
 }
