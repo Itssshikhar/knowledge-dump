@@ -11,14 +11,10 @@
             "id": "37247a89b79bfec7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dump/Intro.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "New tab"
             }
           }
         ]
@@ -178,37 +174,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c54f1e290c12abf",
+  "active": "37247a89b79bfec7",
   "lastOpenFiles": [
+    "dump/Intro.md",
+    "main/K-scale proposal",
+    "main/graph.json",
+    "main/dump/What ILya Saw.md",
+    "main/dump/Sparse Autoencoders in Interpretability.md",
+    "main/dump/NEAT Implementation for Slime Volley.md",
+    "main/dump/Intro.md",
+    "main/dump/Interview Prep (got fucked, nvm sed).md",
+    "main/dump/Interview Prep.md",
+    "main/dump/Genetic Algorithms.md",
+    "main/dump/Doubts and Dreams.md",
+    "main/dump/Backprop NEAT for 2D Task Classification.md",
+    "main/dump",
+    "main/core-plugins-migration.json",
+    "main/core-plugins.json",
+    "main/assets/slimevolley-3.gif",
+    "main/assets/slimevolley (1).gif",
+    "main/assets/franz_kafka_zeichnung_public-domain_via-wikimedia-commons.jpg",
+    "main/assets/St_5-xband-antenna.jpg",
+    "main/assets/Pasted image 20240907163441.png",
+    "main/assets/Pasted image 20240907155819.png",
+    "main/assets/Autoencoder_structure.png",
+    "main/assets/Autoencoder_sparso.png",
+    "main/assets/Autoencoder_schema.png",
+    "main/assets/1_vtQ7OH3iMT6OmPyeRNcnYg.webp",
+    "main/assets",
+    "main/appearance.json",
+    "main/app.json",
+    "main",
     "dump/NEAT Implementation for Slime Volley.md",
     "Welcome.md",
     "dump/Doubts and Dreams.md",
     "dump/Interview Prep (got fucked, nvm sed).md",
     "dump/Interview Prep.md",
     "assets",
-    "dump/Intro.md",
     "dump/What ILya Saw.md",
     "dump/Sparse Autoencoders in Interpretability.md",
     "dump/Backprop NEAT for 2D Task Classification.md",
-    "assets/franz_kafka_zeichnung_public-domain_via-wikimedia-commons.jpg",
-    "assets/slimevolley-3.gif",
-    "assets/slimevolley (1).gif",
-    "obsidian-recovery-codes.txt",
-    "potential-projects.txt",
-    "workspace.json",
-    "dump/Genetic Algorithms.md",
-    "assets/Autoencoder_schema.png",
-    "app.json",
-    "assets/1_K1bRLDs7h1tmEB4qZCLpxw.webp",
-    "assets/St_5-xband-antenna.jpg",
-    "assets/Pasted image 20240907163441.png",
-    "core-plugins.json",
-    "graph.json",
-    "assets/1_vtQ7OH3iMT6OmPyeRNcnYg.webp",
-    "assets/1_NCmCqKxG4Fw2Ba9wD8jP4g.webp",
-    "assets/Pasted image 20240907155819.png",
-    "K-scale proposal",
-    "core-plugins-migration.json",
-    "appearance.json"
+    "dump/Genetic Algorithms.md"
   ]
 }
