@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "065b0a401fdcb3bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1efc722fe51579ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3c1b918a9d884a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview Prep (got fucked, nvm sed).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c1f7abde1bc8980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sparse Autoencoders in Interpretability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5913408bf57a8c57",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b26b95bba4fd2fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df5fbe88a43d0cd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1cbe12b4d25750da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "61ecb29cd1ee5a53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4aed3304d176d7b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b109d75d4ae72bc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "621b29297ec327f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sparse Autoencoders in Interpretability.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a312c0d70d0287e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sparse Autoencoders in Interpretability.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "186ab7dd0ce5f8b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e088541082edd4eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sparse Autoencoders in Interpretability.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2c1f7abde1bc8980",
+  "lastOpenFiles": [
+    "1_tX9jrdkCZm3jPqG0rWXwOQ.png",
+    "Interview Prep (got fucked, nvm sed).md",
+    "Sparse Autoencoders in Interpretability.md",
+    "NEAT Implementation for Slime Volley.md",
+    "Genetic Algorithms.md",
+    "Interview Prep (got fucked).md",
+    "assets",
+    "assets/St_5-xband-antenna.jpg",
+    "Mutation.md",
+    "assets/1_NCmCqKxG4Fw2Ba9wD8jP4g.webp",
+    "assets/1_vtQ7OH3iMT6OmPyeRNcnYg.webp",
+    "assets/1_K1bRLDs7h1tmEB4qZCLpxw.webp",
+    "NEAT.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}

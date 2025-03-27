@@ -1,0 +1,22 @@
+"Adaptive Vision-Language Robot Learning for Manipulation Tasks"- a system that combines vision transformers and language models to enable robots to learn manipulation tasks from natural language instructions and visual demonstrations. The system would use a memory-efficient architecture to run on edge devices.
+
+The project combines three key technical innovations:
+
+1. A memory-efficient vision transformer for processing robot camera feeds in real-time
+2. A lightweight multimodal architecture that connects visual understanding with language commands
+3. A reinforcement learning layer that optimizes the robot's movements based on real-world feedback
+
+The practical implementation would include:
+
+Week 1: Developing the core vision system and basic manipulation pipeline
+Week 2: Implementing language-vision integration for command interpretation
+Week 3: Adding reinforcement learning capabilities and real-world optimization
+(Week 4 if available: Expanding the task repertoire and improving robustness)
+
+Relevant papers that inspire this work:
+
+1. "RT-1: Robotics Transformer for Real-World Control at Scale" (Google DeepMind)
+2. "PaLM-E: An Embodied Multimodal Language Model" (Google Research)
+3. "Learning Dexterous Manipulation from Suboptimal Experts" (Berkeley, 2023)
+4. "Perception-Action Loops with LLMs" (NVIDIA, 2024)
+5. "Language Models as Zero-Shot Robot Planners: Can Large Language Models Plan Robot Manipulation?" (Stanford, 2023)
