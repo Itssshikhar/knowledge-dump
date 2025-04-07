@@ -7,7 +7,7 @@
 ### Status Quo Analysis
 - Current Solutions: Right now, frameworks like TensorRT, xformers and Unsloth exist but they are only making sure that chunking is efficient so that required GPU would be lower in size, not maximizing the throughput and FLOPS.
 
-![[llama-4-throughput.jpeg]]
+![](assets/llama-4-throughput.jpeg)
 
 - Expected Evolution: In the near future, I expect some sort of scheduler/compiler that would arrange the blocks/processes that would keep the GPU in constant 100% usage at all time
 
