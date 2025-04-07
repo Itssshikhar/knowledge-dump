@@ -3,14 +3,12 @@
 ### Demand Hypothesis
 - Current: The biggest problem right now is the under-utilization of the available GPU throughput (they are sitting idle, even during the training)
 - Future: This problem will likely evolve, if not solved, such that we'd need 100k GPU just to train a foundational model, that too being only 20-30% utilized at best.
-
 ### Status Quo Analysis
 - Current Solutions: Right now, frameworks like TensorRT, xformers and Unsloth exist but they are only making sure that chunking is efficient so that required GPU would be lower in size, not maximizing the throughput and FLOPS.
 
-![](assets/llama-4-throughput.jpeg)
+![](../assets/llama-4-throughput.jpeg)
 
 - Expected Evolution: In the near future, I expect some sort of scheduler/compiler that would arrange the blocks/processes that would keep the GPU in constant 100% usage at all time
-
 ### 10x Improvement Vision
 - Key Differentiator: The improvement that we are targeting is going to be both consumer/enterprise GPUs, ranging from hobbyist to professionals.
 - User Impact: Combined with something like Unsloth (which is crazy memory efficient), we can probably use models bigger than 1B on just a free Kaggle notebook.
