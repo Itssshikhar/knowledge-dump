@@ -1,13 +1,4 @@
-## Strategic Overview
----
-### Demand Hypothesis
-- *Current*: Problem of under-utilization of GPUs still remains the same, even more evident now that this video from [OpenAI](https://youtu.be/6nJZopACRuQ?si=Cvva3az1UFPQIZbb) came out.
-- *Computational Challenges*: Scaling up GPUs significantly complicated training, making rare issues critical [05:18].
-- *Data Efficiency*: The transformer architecture is efficient at absorbing data, but has limits on insight depth [08:42]. The team discussed improving data efficiency and algorithmic innovations [08:36]. Current algorithms are far from human-level efficiency in language learning [28:40].
-- *System Challenges*: Training required major system changes like state management and multi-cluster training [09:38]. Co-design between ML and systems is vital for performance [35:07]. The current system is evolving towards an idealized vision [37:02].
-- *Future Scaling*: Fault tolerance and system co-design are crucial for the next 10x pre-training jump [11:03]. Future training might involve 10 million+ GPUs [30:51]. Memory bandwidth and balanced system design are potential bottlenecks [34:07].
-- *Hardware*: Transport-level networking improvements are important for reliable bandwidth [27:55].
-- *Compression & Intelligence*: Pre-training is viewed as compression linked to intelligence; models learning quickly become great compressors [38:53].
+
 ---
 ## Weekly Execution Updates
 
